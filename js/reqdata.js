@@ -17,7 +17,7 @@ document.getElementById('kirim').innerHTML = "Memproses Cetak Kupon....";
             vibr(180);
             console.log('Complete')
    setTimeout(function(){
-  window.location.href='tre.html'
+  window.location.href='win.html'
  
     }, 3000);
         }
